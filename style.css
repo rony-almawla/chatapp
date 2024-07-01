@@ -14,6 +14,14 @@ body{
   background: #f7f7f7;
   padding: 0 10px;
 }
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  justify-items: center;
+  align-items: center;
+}
 .wrapper{
   background: #fff;
   max-width: 450px;
